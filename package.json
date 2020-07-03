@@ -1,0 +1,23 @@
+{
+  "name": "math-circle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subhamsrk/circleci.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subhamsrk/circleci/issues"
+  },
+  "homepage": "https://github.com/subhamsrk/circleci#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
